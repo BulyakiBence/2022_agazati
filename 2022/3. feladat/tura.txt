@@ -1,0 +1,38 @@
+túra neve;táv;szint
+Ember a Gáton;40,00;0
+Burgenland Extrem;120,00;460
+Rockenbauer 130;129,60;2640
+Kinizsi Százas;100,00;2930
+Gerecse 50;48,30;1514
+BHTCS;35,00;1100
+Tortúra;65,00;2100
+Becsület útja;46,30;1541
+3 X 50;153,60;5148
+Kesapiz;101,90;3565
+Kazinczy 200;203,30;7400
+Kitörés 60;57,50;2131
+BHTMCS;45,00;1700
+Téli Mátra;40,50;1599
+BUÉK 20;22,30;889
+Szuperkatlan;35,00;1400
+Tréfás Túra a Mátrában;30,00;1200
+Pilisi Lift Felmenet;18,70;778
+Budai Trapp;29,00;1221
+Mecsek 1800;39,70;1705
+Lábatlan 15A;17,00;735
+Mátrahegy 40;43,40;1940
+Szilveszter Kékesen 28;28,00;1300
+A Kör;152,00;7200
+Szilveszter Kékesen 14;14,00;680
+Mátrabérc;55,00;2734
+Kiss Péter emléktúra;56,50;2890
+Mátra 115;132,00;6760
+Mátra 60;59,60;3141
+Kőről-kőre a Mátrában;20,70;1158
+Kékes 1X;12,10;705
+Galyavár 110;110,70;7200
+Aradi Vértanúk csúcsfutás;6,00;400
+Tor des Géants;330,00;24000
+Petite Trotte á Léon;300,00;25000
+Nyikom-csúcsfutás;7,10;600
+Pilis Vertikál;6,50;550

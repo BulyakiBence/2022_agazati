@@ -1,0 +1,20 @@
+body {}
+
+nav {
+    background-color: #e4be17;
+}
+
+.lablec {}
+
+#helyszinek p {
+    text-align: center;
+    margin: 5px;
+}
+
+#bevezeto {
+    margin: 20px 0;
+}
+
+#varolista ul {
+    margin-left: 50px;
+}
